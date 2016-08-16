@@ -1,0 +1,17 @@
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\DataMonitor.Service.dll
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\DataMonitor.Service.pdb
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\DataMonitor.Infrastructure.dll
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\SqlServerDataAdapter.dll
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\AutoMapper.dll
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\DataMonitor.Infrastructure.pdb
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\obj\Release\DataMonitor.Service.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\obj\Release\DataMonitor.Service.dll
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Service\obj\Release\DataMonitor.Service.pdb
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\DataMonitor.Service.dll
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\DataMonitor.Service.pdb
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\DataMonitor.Infrastructure.dll
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\AutoMapper.dll
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Service\bin\Release\DataMonitor.Infrastructure.pdb
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Service\obj\Release\DataMonitor.Service.csprojResolveAssemblyReference.cache
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Service\obj\Release\DataMonitor.Service.dll
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Service\obj\Release\DataMonitor.Service.pdb

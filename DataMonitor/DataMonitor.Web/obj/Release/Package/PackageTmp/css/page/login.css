@@ -1,0 +1,124 @@
+﻿body,html 
+{
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	overflow:inherit;
+	text-align:center;
+	width:100%;
+	height:100%;
+	
+}
+form
+{
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	overflow:inherit;
+	text-align:center;
+}
+.clearing
+{
+	clear:both;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	width:0;
+	height:0;
+	line-height:0;
+}
+table
+{
+	border:0px;
+	margin:0px;
+    border-collapse:collapse;
+    border-spacing:0px;
+    padding:0px;
+    word-spacing:inherit;
+}
+.font12
+{
+    font-size:12px;
+    font-family:宋体;
+}
+.font14
+{
+    font-size:14px;
+    font-family:宋体;
+}
+.Mainbody
+{
+	background-color: #d9ecf3;
+	font-family: "宋体";
+}
+#mainTableTop
+{
+	width:1024px;
+	height:100px;
+	background-color: #6e81e9;
+}
+.mainTableMiddle
+{
+	height:408px;
+	text-align:left;
+	vertical-align:top;
+    background-image: url(../../images/common/MainMiddleBackImage.jpg); 
+    background-repeat:repeat-x;
+}
+#LeftloginTable
+{
+	width:1024px;
+	height:408px; 
+	border:0px; 
+	margin:0px;
+}
+#LeftloginTableLeft
+{
+	width:150px;
+}
+.loginTable
+{
+	width:753px; 
+	height:408px; 
+	background-image: url(../../images/common/LoginFrameImage.jpg); 
+	background-repeat: no-repeat; 
+	text-align :left; 
+	vertical-align:middle; 
+	border:0px; 
+	margin:0px;
+}
+.loginTableTopLeft
+{
+	width: 445px; 
+	height: 110px;
+}
+.loginTableTopMiddle
+{
+	width: 215px;
+}
+.loginTableText
+{
+	height: 45px;
+	padding:0px;
+	margin:0px;
+	border-collapse:collapse;
+    border-spacing:0px;
+}
+.LoginButton
+{
+	text-align:left;
+	vertical-align:top;
+	padding-top:10px;
+}
+.loginTableErrMessage
+{
+	height: 33px;
+	text-align:center;
+	vertical-align:top;
+}
+.loginTableBlank
+{
+	height:140px;
+}

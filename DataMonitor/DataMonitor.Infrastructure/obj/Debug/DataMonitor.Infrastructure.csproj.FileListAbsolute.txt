@@ -1,0 +1,10 @@
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Infrastructure\bin\Debug\DataMonitor.Infrastructure.dll
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Infrastructure\bin\Debug\DataMonitor.Infrastructure.pdb
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Infrastructure\obj\Debug\DataMonitor.Infrastructure.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Infrastructure\obj\Debug\DataMonitor.Infrastructure.dll
+E:\NXJC\项目文件\jiancaijituan\shujujiankong\DataMonitor\DataMonitor.Infrastructure\obj\Debug\DataMonitor.Infrastructure.pdb
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Infrastructure\bin\Debug\DataMonitor.Infrastructure.dll
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Infrastructure\bin\Debug\DataMonitor.Infrastructure.pdb
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Infrastructure\obj\Debug\DataMonitor.Infrastructure.csprojResolveAssemblyReference.cache
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Infrastructure\obj\Debug\DataMonitor.Infrastructure.dll
+D:\GitProjectProgram\Project_JCDS\shujujiankong\DataMonitor\DataMonitor.Infrastructure\obj\Debug\DataMonitor.Infrastructure.pdb
